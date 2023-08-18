@@ -1708,10 +1708,18 @@ footer .f-bot .m-span span{
         width: 26px;
         height: 26px;
     }
+    .sec-6 .sec6-cont .big-box:hover .arrow{
+        right: 0px;
+        opacity: 1;
+    }
     .sec-6 .sec6-cont .big-box .box-icon{
         width: 210px;
         height: 110px;
         margin: 0px auto;
+    }
+    .sec-6 .sec6-cont .small-box .box:hover .arrow{
+        right: 0px;
+        opacity: 1;
     }
     .sec-6 .sec6-cont .small-box .box .arrow{
         width: 26px;
