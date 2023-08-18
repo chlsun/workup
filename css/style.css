@@ -1026,9 +1026,11 @@ footer .f-bot .m-span span{
         flex-direction: column;
         padding: 14px 0px;
     }
+    .sec-1 .box .box-padding .sec1-logo{
+        margin-bottom: 22px;
+    }
     .sec-1 .box .txt-box p{
         margin: 0 auto;
-        margin-top: auto;
     }
     .sec-1 .box .txt-box span{
         display: none;
