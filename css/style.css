@@ -1757,7 +1757,7 @@ footer .f-bot .m-span span{
         opacity: 1;
     }
     .sec-1 .box .txt-box p{
-        margin-top: 24px;
+        margin-bottom: 24px;
     }
 }
 @media(max-width:375px){
