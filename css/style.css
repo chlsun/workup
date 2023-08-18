@@ -1733,6 +1733,29 @@ footer .f-bot .m-span span{
     footer .f-mid{
         margin-bottom: 28px;
     }
+    .sec-1 .box:hover{
+        transform: translateY(0px);
+    }
+    .sec-3 .sec3-cont .box:hover{
+        transform: translateY(0px);
+    }
+    .sec-3 .sec3-cont .box .txt-box span {
+        margin-bottom: 50px;
+    }
+    .sec-6 .sec6-cont .big-box:hover{
+        transform: translateY(0px);
+    }
+    .sec-6 .sec6-cont .big-box:hover .arrow{
+        right: 0px;
+        opacity: 1;
+    }
+    .sec-6 .sec6-cont .small-box .box:hover{
+        transform: translateY(0px);
+    }
+    .sec-6 .sec6-cont .small-box .box:hover .arrow{
+        right: 0px;
+        opacity: 1;
+    }
 }
 @media(max-width:375px){
 
