@@ -1727,6 +1727,9 @@ footer .f-bot .m-span span{
         width: 113px;
         height: 100px;
     }
+    footer{
+        height: 250px;
+    }
     footer .f-top{
         margin-bottom: 30px;
     }
