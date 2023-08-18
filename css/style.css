@@ -1024,7 +1024,6 @@ footer .f-bot .m-span span{
 @media(max-width:1500px){
     .sec-1 .box-padding{
         flex-direction: column;
-        justify-content: space-between;
         padding: 14px 0px;
     }
     .sec-1 .box .txt-box p{
