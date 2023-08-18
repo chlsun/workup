@@ -1027,6 +1027,7 @@ footer .f-bot .m-span span{
         padding: 14px 0px;
     }
     .sec-1 .box .txt-box p{
+        display: inline-block;
         margin: 0 auto;
         margin-top: auto;
     }
