@@ -1772,17 +1772,14 @@ footer .f-bot .m-span span{
         transform: translateY(0px);
     }
     .sec-6 .sec6-cont .big-box:hover .arrow{
-        right: 0px;
+        right: 20px;
         opacity: 1;
     }
     .sec-6 .sec6-cont .small-box .box:hover{
         transform: translateY(0px);
     }
     .sec-6 .sec6-cont .small-box .box:hover .arrow{
-        right: 0px;
+        right: 20px;
         opacity: 1;
     }
-}
-@media(max-width:375px){
-
 }
