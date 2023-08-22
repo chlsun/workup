@@ -41,6 +41,7 @@ $(document).ready(function(){
         $(this).parent().toggleClass('active');
 
         if($(this).parent().hasClass('active')){
+            $('.menu-box .mb-menu .menu ul').removeClass('active');
             $(this).parent().children('ul').addClass('active');
         }else{
             $(this).parent().children('ul').removeClass('active');
